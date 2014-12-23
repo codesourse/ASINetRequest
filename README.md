@@ -1,3 +1,0 @@
-ASINetRequest
-=============
-first time use
